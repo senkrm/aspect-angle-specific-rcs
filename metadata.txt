@@ -1,0 +1,3 @@
+RCS file metadata
+columns = elevation, 1st column/el=0
+rows =azimuth, 1st row/az=0
